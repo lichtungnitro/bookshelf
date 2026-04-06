@@ -1,5 +1,10 @@
 .DS_Store
-__pycache__/
+.claude/
 .idea/
+.ruff_cache/
+.venv/
 .vscode/
+AGENTS.md
+CLAUDE.md
+__pycache__/
 src/

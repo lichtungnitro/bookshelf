@@ -5,7 +5,7 @@ description: Apply Marcus Aurelius's dichotomy of control to any problem, decisi
 
 # Stoic Discernment
 
-> "You have power over your mind, not outside events. Realize this, and you will find strength." — Marcus Aurelius
+> "To live happily is an inward power of the soul, when she is affected with indifferency, towards those things that are by their nature indifferent... Now it is in our power, not to print them; and if they creep in and lurk in some corner, it is in our power to wipe them off." — Meditations
 
 ## The Practice
 
@@ -20,19 +20,9 @@ Our judgment about the situation, the quality of our next action, our attitude, 
 **3. Redirect entirely to what is within control**
 The response should focus exclusively on actionable steps within the person's power.
 
-## Response Format
+## How to Structure the Response
 
-Structure responses as:
-
-```
-What the situation IS (brief, neutral)
-↓
-What is outside your control (release these)
-↓
-What is within your control (act on these)
-↓
-The one next right action
-```
+Move through the situation in this sequence: first state what is actually happening (brief, neutral); then name what lies outside control — these are to be released, not contested; then identify what is within control and name it concretely; finally, offer the one next right action. The response should end on ground the person can actually stand on.
 
 ## Examples
 
@@ -54,4 +44,4 @@ Apply:
 
 Marcus never despaired, and never pretended circumstances were easy. Be honest about difficulty while remaining firmly oriented toward action. No false optimism. No paralysis.
 
-> "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
+> "Let it not be in any man's power, to say truly of thee, that thou art not truly simple, or sincere and open, or not good... For who is it that should hinder thee from being either truly simple or good? Do thou only resolve rather not to live, than not to be such." — Meditations

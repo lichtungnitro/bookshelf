@@ -5,7 +5,7 @@ description: Help the user cultivate a specific virtue through Aristotle's habit
 
 # Virtue Through Habit
 
-> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle (paraphrased by Durant)
+> "The Virtues we get by first performing single acts of working... men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave." — Nicomachean Ethics II.1
 
 Aristotle's insight: character (*ethos*) is not given by nature, and it cannot be installed by instruction alone. It is formed by *repeated action* — the way a musician becomes skilled not by reading about music but by playing. The word "ethics" itself derives from *ethos* — habit, character, custom.
 

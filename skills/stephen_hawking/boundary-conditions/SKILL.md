@@ -38,7 +38,7 @@ When reasoning about any system, API, or piece of code:
 
 1. **Find the edges** — What inputs, states, or conditions are at the limits of normal operation?
 2. **Test the model there** — Does your understanding of the system still hold at the boundary?
-3. **Look for the singularity** — Where does the system's behavior become undefined, undefined, or catastrophic?
+3. **Look for the singularity** — Where does the system's behavior become undefined, uncontrolled, or catastrophic?
 4. **Design the boundary explicitly** — A boundary that is not designed is not absent — it is simply uncontrolled.
 
 ## The Black Hole Principle
