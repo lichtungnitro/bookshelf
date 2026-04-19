@@ -1,0 +1,15 @@
+# Ruff configuration for scripts under skills/homer (not an installable package).
+# Scripts use only the Python standard library; run with the repo `.venv` or `python3`.
+
+[project]
+name = "homer-skills-scripts"
+version = "0.0.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]

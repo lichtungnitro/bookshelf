@@ -7,4 +7,5 @@
 AGENTS.md
 CLAUDE.md
 __pycache__/
-src/
+# Books and large binaries at repo root only — do not ignore e.g. skills/*/src packages
+/src/

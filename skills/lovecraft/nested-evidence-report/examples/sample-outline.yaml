@@ -1,0 +1,19 @@
+title: Nested investigation (template)
+frame_narrator:
+  prompt: >-
+    Name the narrator, their duty (e.g. executor, investigator), conflicts of interest,
+    and what they have not personally verified.
+primary_documents:
+  - name: Exhibit A (physical or digital)
+    note: Custody chain and why authenticity matters.
+  - name: Exhibit B
+    note: Derived vs original; redactions.
+secondary_accounts:
+  - Interview summaries (not transcripts) with dates.
+  - Press clippings with publication context.
+synthesis_and_limits:
+  prompt: >-
+    Separate observation from inference. List coincidences that remain. State falsifiers.
+disclosure_and_risk:
+  prompt: >-
+    Who could be harmed by partial publication? Redaction policy. Executor instructions.

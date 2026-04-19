@@ -1,0 +1,29 @@
+{
+  "title": "Illustrative dissociated claims (original scenario, not a reproduction of the novella)",
+  "claims": [
+    {
+      "id": "a1",
+      "source": "archivist_notes",
+      "date": "1908-09-15",
+      "text": "Expert meeting recorded a small idol of unknown workmanship and unknown script.",
+      "tags": ["idol", "script"],
+      "relates_to": ["a2"]
+    },
+    {
+      "id": "a2",
+      "source": "field_interview_transcript",
+      "date": "1907-11-02",
+      "text": "Arrested celebrants chanted a formula translating to a house-at-sea motif.",
+      "tags": ["chant", "cult"],
+      "relates_to": ["a1"]
+    },
+    {
+      "id": "a3",
+      "source": "news_item",
+      "date": "1925-03-22",
+      "text": "Derelict vessel reported; survivor retained a carved figure resembling prior idols.",
+      "tags": ["idol", "maritime"],
+      "relates_to": ["a1"]
+    }
+  ]
+}

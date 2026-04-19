@@ -1,0 +1,6 @@
+observer_id,window_start,window_end,cohort
+alpha,1925-03-23,1925-04-02,artist
+bravo,1925-03-25,1925-04-01,artist
+charlie,1925-03-20,1925-03-28,clerical
+delta,1925-02-01,1925-02-28,clerical
+echo,1925-03-23,1925-04-02,artist
